@@ -1,4 +1,3 @@
-The Game
-=======
+#The Game
 
 A future awesome game
